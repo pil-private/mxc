@@ -1,0 +1,19 @@
+{
+  "name": "mxc",
+  "version": "0.0.1",
+  "description": "mvc without v",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razvanavram/mxc.git"
+  },
+  "author": "Razvan AVRAM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razvanavram/mxc/issues"
+  },
+  "homepage": "https://github.com/razvanavram/mxc#readme"
+}
