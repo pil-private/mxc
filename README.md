@@ -1,4 +1,4 @@
-## 📄 License
+## License
 
 mxc is MIT licensed, as found in the [LICENSE][l] file.
 
