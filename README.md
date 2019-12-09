@@ -1,5 +1,3 @@
-# mxc
-
 ### License
 
 MIT License
