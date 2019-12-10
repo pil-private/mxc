@@ -1,0 +1,15 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "comma-dangle": ["error", "only-multiline"],
+    "indent": ["error", 4],
+    "no-console": "off",
+    "prefer-template": "off",
+    "dot-notation": "off",
+    "no-trailing-spaces": ["error", { "skipBlankLines": true }]
+  }
+}
